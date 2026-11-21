@@ -18,11 +18,9 @@ The dataset has been completely anonymized to protect participants' privacy.
 
 ## Task
 
-The objective is to generate **concise, coherent summaries** of citizen proposals and their associated voting data.
+The objective is to generate **a single, concise, and coherent textual summary** of the entire citizen consultation, taking into account both the proposals and their associated votes. Participants must develop automated summarization systems but are free to choose their methods and models.
 
-Participants are free to use any summarization approach.
-
-Further details on the task and instructions for submitting generated summaries will be **announced soon**.
+Further details on the task and instructions for submitting summaries will be **announced soon**.
 
 ## Evaluation & Baselines
 
@@ -31,3 +29,6 @@ Generated summaries will be evaluated using democratically grounded criteria, ex
 The **exact evaluation metrics will be described here soon**, alongside the release of the evaluation scripts and baseline implementation.
 
 For more information on the MultiDems Workshop, visit the [website](https://multidems.github.io/).
+
+## Contact
+multidems@googlegroups.com
